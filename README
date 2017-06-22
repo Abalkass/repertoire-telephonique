@@ -1,14 +1,12 @@
-﻿Projet Java Licence Pro APIDAE — Répertoire téléphonique — DJABIRI Abalkassim
+<h1>Projet Java Licence Pro APIDAE — Répertoire téléphonique <h1>
+<h3>DJABIRI Abalkassim<h3>
 
-Pour ce projet, j'ai utilisé la bibliothèque javax.swing pour créer une fenêtre
-graphique ainsi que tous les éléments graphiques que compose cette fenêtre.
+Réalisation d'un carnet d'adresses graphique programmée entièrement en Java, avec lequel les utilisateurs peuvent ajout, modifier et supprimer des contacts à l'aide d'items et de boutons.
 
-J'ai aussi utilisé un objet de type java.util.Properties pour stocker les
-informations d'un contact.
+Pour ce projet, j'ai utilisé la bibliothèque javax.swing pour créer une fenêtre graphique ainsi que tous les éléments graphiques que compose cette fenêtre.
 
-Afin que l'application réponde au cas d'utilisation demandé, j'ai utilisé
-les gestionnaires d'événements de Java tels que java.awt.event.ActionListener,
-java.awt.event.WindowEvent, javax.swing.event.ListSelectionListener, etc.
+J'ai aussi utilisé un objet de type java.util.Properties pour stocker les informations d'un contact.
 
-Enfin, j'ai mis la possibilité que l'utilisateur puisse changer la langue de l'application
-(en français ou en anglais).
+Afin que l'application réponde au cas d'utilisation demandé, j'ai utilisé les gestionnaires d'événements de Java tels que java.awt.event.ActionListener, java.awt.event.WindowEvent, javax.swing.event.ListSelectionListener, etc.
+
+Enfin, j'ai mis la possibilité que l'utilisateur puisse changer la langue de l'application (en français ou en anglais).
