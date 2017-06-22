@@ -1,4 +1,4 @@
-<h1>Projet Java Licence Pro APIDAE — Répertoire téléphonique <h1>
+#Projet Java Licence Pro APIDAE — Répertoire téléphonique <h1>
 <h3>DJABIRI Abalkassim<h3>
 
 Réalisation d'un carnet d'adresses graphique programmée entièrement en Java, avec lequel les utilisateurs peuvent ajout, modifier et supprimer des contacts à l'aide d'items et de boutons.
