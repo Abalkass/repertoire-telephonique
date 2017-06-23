@@ -1,6 +1,6 @@
 <h1>Projet Java Licence Pro APIDAE - Répertoire téléphonique</h1>
 
-Réalisation d'un carnet d'adresses graphique programmée entièrement en Java, avec lequel les utilisateurs peuvent ajout, modifier et supprimer des contacts à l'aide d'items et de boutons.
+Réalisation d'un carnet d'adresses graphique programmée entièrement en Java, avec lequel les utilisateurs pourront ajouter, modifier et supprimer des contacts à l'aide d'items et de boutons.
 
 Pour ce projet, j'ai utilisé la bibliothèque javax.swing pour créer une fenêtre graphique ainsi que tous les éléments graphiques que compose cette fenêtre.
 
